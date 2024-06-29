@@ -27,8 +27,7 @@ This project involves scraping data from the Election Commission of India's offi
 1.Clone the repository:
 
     git clone https://github.com/rahul-200/Kalvium-Task.git
-    cd lok-sabha-election-analysis
-
+    
 2.Install the required libraries:
 
     pip install -r requirements.txt
