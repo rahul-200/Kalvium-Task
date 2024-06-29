@@ -16,10 +16,12 @@ This project involves scraping data from the Election Commission of India's offi
 
 ### Usage
 1.Clone the repository:
-    git clone https://github.com/yourusername/lok-sabha-election-analysis.git
+
+    git clone https://github.com/rahul-200/Kalvium-Task.git
     cd lok-sabha-election-analysis
 
 2.Install the required libraries:
+
     pip install -r requirements.txt
 
 3.Open and run scraper.ipynb in Jupyter Notebook to scrape and analyze data and generate insights.
