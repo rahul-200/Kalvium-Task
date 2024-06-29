@@ -1,8 +1,8 @@
 # Scraping and Analyzing Lok Sabha Election Results
-Overview
+### Overview
 This project involves scraping data from the Election Commission of India's official results website (https://results.eci.gov.in) to analyze the recently concluded Lok Sabha elections. The data includes election results at the constituency level, which will be processed to derive key insights.
 
-key Insights:
+### key Insights:
 1.Number of seats won by each party
 2.Number of Seats Won in Each State
 3.Largest victory margin
@@ -14,7 +14,7 @@ key Insights:
 9.Average margin of victory for each party
 10.Number of States Where a Single Party Won All Seats
 
-Usage
+### Usage
 1.Clone the repository:
     git clone https://github.com/yourusername/lok-sabha-election-analysis.git
     cd lok-sabha-election-analysis
