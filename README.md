@@ -4,6 +4,7 @@ This project involves scraping data from the Election Commission of India's offi
 
 ### key Insights:
 1.Number of seats won by each party
+
 2.Number of Seats Won in Each State
 3.Largest victory margin
 4.Smallest victory margin
